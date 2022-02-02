@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/simple-todo-list/static/js/main.dd55a367.js",
+    "main.js": "/simple-todo-list/static/js/main.ec48c0be.js",
     "index.html": "/simple-todo-list/index.html",
-    "main.dd55a367.js.map": "/simple-todo-list/static/js/main.dd55a367.js.map"
+    "main.ec48c0be.js.map": "/simple-todo-list/static/js/main.ec48c0be.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd55a367.js"
+    "static/js/main.ec48c0be.js"
   ]
 }
